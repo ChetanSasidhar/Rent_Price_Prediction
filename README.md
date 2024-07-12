@@ -1,6 +1,3 @@
-Here's an updated version of the README with corrections and additional details:
-
----
 
 # Rent Price Prediction
 

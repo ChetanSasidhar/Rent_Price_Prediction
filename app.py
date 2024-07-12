@@ -2,7 +2,7 @@ import csv
 from flask import Flask, jsonify, request, render_template
 import requests
 
-app = Flask(__name__, template_folder='templates')
+app = Flask(__name__, template_folder='')
 
 def load_data():
     with open('FINAL.csv', mode = 'r') as file:
